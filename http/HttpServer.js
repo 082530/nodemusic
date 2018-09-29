@@ -126,7 +126,7 @@ module.exports = (function(){
 
         ///配置信息
         config:{
-            port:13933,
+            port:8080,
             ip:'127.0.0.1',
             mime:{
                 html:"text/html",
